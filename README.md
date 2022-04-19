@@ -7,11 +7,11 @@ defunkt/mardown-samples/#1
 
 # Code 
 
-''' javascript
+```javascript
 funtion test() {
  console.log("look ma, no spaces");
  }
-'''
+```
 
 # Tables
 First | Second
