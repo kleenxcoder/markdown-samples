@@ -5,6 +5,12 @@ defunkt#1
 
 defunkt/mardown-samples/#1
 
+# Task List
+
+- [x] @mentions, #refs [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required
+- [ ] this is an uncomplete item
+
 # Code 
 
 ```javascript
@@ -20,4 +26,7 @@ First | Second
 a | b
 
 # Emoji
-:+1: 🍀
+:+1:
+:atom:
+:rocket:
+:octocat:
