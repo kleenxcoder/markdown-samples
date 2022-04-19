@@ -6,4 +6,4 @@ defunkt#1
 defunkt/mardown-samples/#1
 
 # Emoji
-:+1:
+:+1: 🍀
