@@ -5,6 +5,14 @@ defunkt#1
 
 defunkt/mardown-samples/#1
 
+# Code 
+
+''' javascript
+funtion test() {
+ console.log("look ma, no spaces");
+ }
+'''
+
 # Tables
 First | Second
 ----- | -----
